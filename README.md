@@ -53,6 +53,3 @@ The project walks through creating a dbt Cloud account, connecting it to Databri
 
 This project equips you with cutting-edge data engineering skills, prepares you for real-world challenges, and enables you to build scalable, maintainable pipelines and dimensional models aligned with industry standards.
 
----
-
-If you want, I can also provide a detailed outline or FAQ about the project.
